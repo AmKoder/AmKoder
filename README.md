@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">My name is Nitin Kumar Verma, and I'm passionate about Technology, Problem Solving and willingness to learn. I'm currently pursuing Computer science and Engineering (Data Science) in NIET Greater Noida. where I practice Convergent Thinking and Enhanced skills through diverse experiences every day.</h6>
+<h4 align="left">My name is Nitin Kumar Verma, and I'm passionate about Technology, Problem Solving and willingness to learn. I'm currently pursuing Computer science and Engineering (Data Science) in NIET Greater Noida. where I practice Convergent Thinking and Enhanced skills through diverse experiences every day.</h4>
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-<h6 align="left">Sharpened critical thinking, problem-solving, and time management. Enhanced organizational, presentation, and Technical skills. Cultivated effective communication via professional writing, class discussions, and diverse networking.</h6>
+<h4 align="left">Sharpened critical thinking, problem-solving, and time management. Enhanced organizational, presentation, and Technical skills. Cultivated effective communication via professional writing, class discussions, and diverse networking.</h4>
 
 ###
 
