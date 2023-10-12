@@ -53,4 +53,7 @@
 <h4 align="left">Sharpened critical thinking, problem-solving, and time management. Enhanced organizational, presentation, and Technical skills. Cultivated effective communication via professional writing, class discussions, and diverse networking.</h4>
 
 ###
-![WhatsApp Image 2023-10-12 ](https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78)
+<div align="center">
+
+<img height="200" src="![WhatsApp Image 2023-10-12 ](https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78)
+" /> </div
