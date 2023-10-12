@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">🤹🏻 A Convergent-Thinker to embark on new challenges!<br>📚 I'm currently learning Development & Emerging Technologies<br>🎯 Goals: One of my main professional goals is to one day become the Great Entrepreneur.<br>🎲 Fun fact: I love to cook. My signature dish is homemade Shahi Paneer and Chicken Gravy .</h4>
+<h4 align="left">🤹🏻 A Convergent-Thinker to embark on new challenges!<br>📚 I'm currently learning Development & Emerging Technologies.<br>🎯 Goals: One of my main professional goals is to one day become the Great Entrepreneur.<br>🎲 Fun fact: I love to cook. My signature dish is homemade Shahi Paneer and Chicken Gravy .</h4>
 
 ###
 
@@ -81,7 +81,7 @@
   <a href="hackerrank.com/AmKoder" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.instagram.com/iimnitin/" target="_blank">
+  <a href="https://www.instagram.com/iimnitin/" target="_fill">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
