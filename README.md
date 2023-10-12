@@ -1,8 +1,9 @@
-<h1 align="left">Hi👋, I'm Nitin Verma aka Koder</h1>
-<div align="left">
+<div align="centre">
 <img height="200"
 src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"/>
 </div> 
+<h1 align="centre">Hi👋, I'm Nitin Verma aka Koder</h1>
+
 <h4 align="left">My name is Nitin Kumar Verma, and I'm passionate about Technology, Problem Solving and willingness to learn. I'm currently pursuing Computer science and Engineering (Data Science) in NIET Greater Noida. where I practice Convergent Thinking and Enhanced skills through diverse experiences every day.</h4>
 
 ###
