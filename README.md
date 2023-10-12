@@ -67,12 +67,6 @@
 </div>
 
 ###
-![Profile Views](https://profile-counter.glitch.me/AmKoder/count.svg)
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/amkoder/)
-[![Twitter](images/twitter.svg)](https://twitter.com/iimnitin)
-[![Gmail](images/gmail.svg)](mailto:imnitinkumar2001@gmail.com)
-[![HackerRank](images/hackerrank.svg)](https://www.hackerrank.com/AmKoder)
-[![Instagram](images/instagram.svg)](https://www.instagram.com/iimnitin/)
 
 
 ###
