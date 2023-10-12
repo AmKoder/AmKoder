@@ -1,8 +1,12 @@
-<div align="centre">
-<img height="200"
-src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"/>
-</div> 
-<h1 align="centre">Hi👋, I'm Nitin Verma aka Koder</h1>
+<div align="center">
+  <img height="200" src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"  />
+</div>
+
+###
+
+<h1 align="center">Hi👋, I'm Nitin Verma aka Koder</h1>
+
+###
 
 <h4 align="left">My name is Nitin Kumar Verma, and I'm passionate about Technology, Problem Solving and willingness to learn. I'm currently pursuing Computer science and Engineering (Data Science) in NIET Greater Noida. where I practice Convergent Thinking and Enhanced skills through diverse experiences every day.</h4>
 
@@ -12,7 +16,7 @@ src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c
 
 ###
 
-<p align="left">🤹🏻 A Convergent-Thinker to embark on new challenges!<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h4 align="left">🤹🏻 A Convergent-Thinker to embark on new challenges!<br>📚 I'm currently learning Development & Emerging Technologies<br>🎯 Goals: One of my main professional goals is to one day become the Great Entrepreneur.<br>🎲 Fun fact: I love to cook. My signature dish is homemade Shahi Paneer and Chicken Gravy .</h4>
 
 ###
 
@@ -48,10 +52,38 @@ src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
 </div>
 
 ###
 
 <h4 align="left">Sharpened critical thinking, problem-solving, and time management. Enhanced organizational, presentation, and Technical skills. Cultivated effective communication via professional writing, class discussions, and diverse networking.</h4>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AmKoder/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/amkoder/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/iimnitin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://mail.google.com/imnitinkumar2001@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="hackerrank.com/AmKoder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.instagram.com/iimnitin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
