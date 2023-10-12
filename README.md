@@ -1,4 +1,13 @@
-<h1 align="center">Hi👋, I'm Nitin Verma aka Koder</h1>
+
+
+
+
+
+<div align="left">
+
+<img height="200"
+src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"/>
+</div>       <h1 align="center">Hi👋, I'm Nitin Verma aka Koder</h1>
 
 ###
 
@@ -58,4 +67,4 @@
 <img height="400"
 src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"/>
 </div>
-
+<img src="https://raw.githubusercontent.com/Amkoder/Amkoder/output/snake.svg" alt="Snake animati" />
