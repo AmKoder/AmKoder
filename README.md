@@ -97,7 +97,8 @@
     <img src="path/to/hackerrank-icon.svg" width="52" height="40" alt="HackerRank" />
   </a>
   <a href="https://www.instagram.com/iimnitin/" target="_blank">
-    <img src="path/to/instagram-icon.svg" width="52" height="40" alt="Instagram" />
+    <img src="https://github.com/AmKoder/AmKoder/assets/138553333/18adc4f5-4722-4add-a50d-a468c246ac83
+instagram-icon.svg" width="52" height="40" alt="Instagram" />
   </a>
 </p>
 instagram-icon.svg" width="52" height="40" alt="Instagram" />
