@@ -85,10 +85,9 @@
 </div>
 
 ###
-<div align="center">
 ![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg) [LinkedIn](https://www.linkedin.com/in/amkoder/)
 ![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg) [Twitter](https://twitter.com/iimnitin)
 ![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg) [Gmail](mailto:imnitinkumar2001@gmail.com)
 ![HackerRank](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg) [HackerRank](https://www.hackerrank.com/AmKoder)
 ![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg) [Instagram](https://www.instagram.com/iimnitin/)
-</div>
+
