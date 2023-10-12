@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"  />
+  <img height="250" src="https://github.com/AmKoder/AmKoder/assets/138553333/26bba17d-cc5e-49df-985c-603667008a78"  />
 </div>
 
 ###
