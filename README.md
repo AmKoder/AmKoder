@@ -67,13 +67,28 @@
 </div>
 
 ###
-<h4 align="center">Connect with me</h1>
-![Profile Views](https://profile-counter.glitch.me/AmKoder/count.svg)
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/amkoder/)
-[![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/iimnitin)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:imnitinkumar2001@gmail.com)
-[![HackerRank](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg)](https://www.hackerrank.com/AmKoder)
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/iimnitin/)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AmKoder/count.svg" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amkoder/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn Logo" />
+  </a>
+  <a href="https://twitter.com/iimnitin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter Logo" />
+  </a>
+  <a href="mailto:imnitinkumar2001@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail Logo" />
+  </a>
+  <a href="https://www.hackerrank.com/AmKoder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank Logo" />
+  </a>
+  <a href="https://www.instagram.com/iimnitin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram Logo" />
+  </a>
+</div>
+
 
 ###
 
