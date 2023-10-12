@@ -67,22 +67,42 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amkoder/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+    <img src="path/to/linkedin-icon.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/iimnitin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+    <img src="path/to/twitter-icon.svg" width="52" height="40" alt="Twitter" />
   </a>
   <a href="mailto:imnitinkumar2001@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+    <img src="path/to/gmail-icon.svg" width="52" height="40" alt="Gmail" />
   </a>
   <a href="https://www.hackerrank.com/AmKoder" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+    <img src="path/to/hackerrank-icon.svg" width="52" height="40" alt="HackerRank" />
   </a>
   <a href="https://www.instagram.com/iimnitin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
+    <img src="<p align="center">
+  <img src="https://profile-counter.glitch.me/AmKoder/count.svg" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/amkoder/" target="_blank">
+    <img src="path/to/linkedin-icon.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/iimnitin" target="_blank">
+    <img src="path/to/twitter-icon.svg" width="52" height="40" alt="Twitter" />
+  </a>
+  <a href="mailto:imnitinkumar2001@gmail.com" target="_blank">
+    <img src="path/to/gmail-icon.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.hackerrank.com/AmKoder" target="_blank">
+    <img src="path/to/hackerrank-icon.svg" width="52" height="40" alt="HackerRank" />
+  </a>
+  <a href="https://www.instagram.com/iimnitin/" target="_blank">
+    <img src="path/to/instagram-icon.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</p>
+instagram-icon.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</p>
 
 
 
