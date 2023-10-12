@@ -61,19 +61,28 @@
 <h4 align="left">Sharpened critical thinking, problem-solving, and time management. Enhanced organizational, presentation, and Technical skills. Cultivated effective communication via professional writing, class discussions, and diverse networking.</h4>
 
 ###
-<div align="center">
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AmKoder/count.svg" alt="Profile Views" />
+</p>
 
-  ![Profile Views](https://profile-counter.glitch.me/AmKoder/count.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amkoder/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/iimnitin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+  </a>
+  <a href="mailto:imnitinkumar2001@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.hackerrank.com/AmKoder" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank" />
+  </a>
+  <a href="https://www.instagram.com/iimnitin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</p>
 
-  <br/>
-
-  [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/amkoder/)
-  [![Twitter](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg)](https://twitter.com/iimnitin)
-  [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:imnitinkumar2001@gmail.com)
-  [![HackerRank](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg)](https://www.hackerrank.com/AmKoder)
-  [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/iimnitin/)
-
-</div>
 
 
 
