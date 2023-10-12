@@ -65,6 +65,8 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AmKoder/count.svg?"  />
 </div>
+
+###
 <h4 align="center">Connect with me</h1>
 ![Profile Views](https://profile-counter.glitch.me/AmKoder/count.svg)
 [![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/amkoder/)
@@ -72,6 +74,8 @@
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:imnitinkumar2001@gmail.com)
 [![HackerRank](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg)](https://www.hackerrank.com/AmKoder)
 [![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/iimnitin/)
+
+###
 
 
 
